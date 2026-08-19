@@ -9,7 +9,7 @@ Official implementation and canonical research artifacts for **"Modeling Dynamic
 The Dynamic Risk Assessment (DRA) framework evaluates candidate maneuvers in a road-aligned local coordinate system using planar rotation, incorporating hard admissibility constraints alongside distribution-sensitive and ethical risk terms to resolve critical pedestrian-oncoming conflicts.
 
 ## Funding & Acknowledgments
-This research is supported and funded under the Afretec Research Grant (African Engineering and Technology Network, involving Carnegie Mellon University Africa, The American University in Cairo, and partner institutions)[cite: 8, 9].
+This research is supported and funded under the Afretec Research Grant, titled “Ethical, Trustworthy, Autonomous: The Vehicles of Tomorrow” (African Engineering and Technology Network, involving Carnegie Mellon University Africa, The American University in Cairo, and partner institutions).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/gamal-zayed/autonomous-dynamic-risk/blob/main/LICENSE) file for details.
