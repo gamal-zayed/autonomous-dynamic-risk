@@ -1,5 +1,6 @@
 # autonomous-dynamic-risk
 [![DOI](https://zenodo.org/badge/842291932.svg)](https://zenodo.org/badge/latestdoi/842291932)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Modeling the Dynamic Risk Assessment for Autonomous Systems
 
