@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22012917.svg)](https://doi.org/10.5281/zenodo.22012917)
+[![DOI](https://zenodo.org/badge/842291932.svg)](https://zenodo.org/badge/latestdoi/842291932)
 # autonomous-dynamic-risk
 Modeling the Dynamic Risk Assessment for Autonomous Systems
 
