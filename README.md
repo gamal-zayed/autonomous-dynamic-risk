@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/842291932.svg)](https://zenodo.org/badge/latestdoi/842291932)
 # autonomous-dynamic-risk
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22012917.svg)](https://doi.org/10.5281/zenodo.22012917)
 Modeling the Dynamic Risk Assessment for Autonomous Systems
 
 # Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework
