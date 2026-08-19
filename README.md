@@ -31,6 +31,7 @@ Bash
 ```text
 python src/DRA_v4.3.2_Resume_State_Fix.py --seed 1000 --scenario S1
 ```
+Logs will be generated under results/.
 
 ## Repository Structure
 ```text
