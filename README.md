@@ -18,25 +18,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ```text
 DRA-autonomous-vehicle/
 ├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── .gitignore
-├── src/
-│   └── DRA_v4.3.2_Resume_State_Fix.py
-├── experiments/
-│   └── run_instructions.md
-└── results/
-    └── canonical/
-        ├── episode_results_20260813_143431.csv
-        ├── timestep_log_20260813_143431.csv
-        └── DRA_Debug_v4.3.2.2.txt
-
-
-
-```text
-DRA-autonomous-vehicle/
-├── README.md
 ├── LICENSE (MIT License)
 ├── CITATION.cff
 ├── requirements.txt
@@ -51,4 +32,4 @@ DRA-autonomous-vehicle/
 │       ├── timestep_log_20260813_143431.csv
 │       └── DRA_Debug_v4.3.2.2.txt
 └── docs/
-    └── Supporting_Information_DRA_Technical_Research_Artifact.pdf
+    └── Supporting_Information.pdf
