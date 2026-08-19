@@ -11,6 +11,9 @@ The Dynamic Risk Assessment (DRA) framework evaluates candidate maneuvers in a r
 ## Funding & Acknowledgments
 This research is supported and funded under the Afretec Research Grant (African Engineering and Technology Network, involving Carnegie Mellon University Africa, The American University in Cairo, and partner institutions)[cite: 8, 9].
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](url) file for details.
+
 ## Repository Structure
 ```text
 DRA-autonomous-vehicle/
