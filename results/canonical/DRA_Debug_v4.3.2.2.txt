@@ -734,7 +734,7 @@ Timestep log: results\timestep_log_20260813_143431.csv
 Episode log:  results\episode_results_20260813_143431.csv
 Metadata:     results/experiment_metadata.json
 
-(carla-16) C:\Users\CSE>python DRA_v4.3.2_Resume_State_Fix.py --visualize
+(carla-16) "The Cloned Directory" DRA_v4.3.2_Resume_State_Fix.py --visualize
 Connecting to CARLA at localhost:2000 …
 INFO:  Found the required file in cache!  Carla/Maps/Nav/Town03.bin
 INFO:  Found the required file in cache!  Carla/Maps/Nav/Town03.bin
