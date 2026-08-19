@@ -17,7 +17,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Setup
 Bash
 ```text
-git clone [autonomous-dynamic-risk](https://github.com/gamal-zayed/autonomous-dynamic-risk.git)
+git clone https://github.com/gamal-zayed/autonomous-dynamic-risk.git
 cd autonomous-dynamic-risk
 pip install -r requirements.txt
 ```
