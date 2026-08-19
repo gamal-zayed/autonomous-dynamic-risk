@@ -3,14 +3,6 @@
 
 # Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22012917.svg)](https://doi.org/10.5281/zenodo.22012917)
-
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.22012917.svg
-  :target: https://doi.org/10.5281/zenodo.22012917
-
-https://zenodo.org/badge/DOI/10.5281/zenodo.22012917.svg
-
-
 Official implementation and canonical research artifacts for **"Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework"**.
 
 ## Project Overview
