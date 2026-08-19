@@ -1,0 +1,2779 @@
+[  6/15] Scenario=S1  Seed=1001  Planner=FULL_DRA … [WARMUP] Actual ego speed = 2.84 m/s (target reference = 8.00 m/s)
+[CONTROL DEBUG] target=3.840, current=2.840, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.934, current=2.934, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.110, current=3.110, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.315, current=3.315, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.549, current=3.549, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.799, current=3.799, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.052, current=4.052, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.302, current=4.302, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.551, current=4.551, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=2.81, ego_y=-1.50, ego_speed=4.80, ped_dist=None
+[DRA DECISION] target_speed=5.798, dy=+0.00, cost=-2.97, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=5.798, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 4.7978 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.239892 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=5.798, current=4.798, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.043, current=5.043, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.286, current=5.286, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.356, current=5.356, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.392, current=5.392, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.525, current=5.525, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.655, current=5.655, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.861, current=5.861, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.043, current=6.043, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.285, current=6.285, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=5.62, ego_y=-1.51, ego_speed=6.49, ped_dist=None
+[DRA DECISION] target_speed=7.493, dy=+0.00, cost=-5.55, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=7.493, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 6.4928 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.324641 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=7.493, current=6.493, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.750, current=6.750, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.969, current=6.969, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.231, error=0.769, throttle=0.615, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.440, error=0.560, throttle=0.448, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.644, error=0.356, throttle=0.285, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.751, error=0.249, throttle=0.199, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.836, error=0.164, throttle=0.131, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.835, error=0.165, throttle=0.132, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.831, error=0.169, throttle=0.135, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=9.35, ego_y=-1.51, ego_speed=7.76, ped_dist=None
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-6.33, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.7645 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.388224 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.764, error=0.236, throttle=0.188, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.720, error=0.280, throttle=0.224, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.633, error=0.367, throttle=0.293, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.587, error=0.413, throttle=0.331, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.511, error=0.489, throttle=0.391, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.486, error=0.514, throttle=0.411, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.438, error=0.562, throttle=0.450, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.441, error=0.559, throttle=0.447, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.422, error=0.578, throttle=0.463, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.450, error=0.550, throttle=0.440, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=13.11, ego_y=-1.52, ego_speed=7.45, ped_dist=None
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-6.36, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.4491 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.372456 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.449, error=0.551, throttle=0.441, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.489, error=0.511, throttle=0.409, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.709, current=7.494, error=-0.785, throttle=0.000, brake=0.628, steer=-0.000
+[CONTROL DEBUG] target=6.596, current=7.507, error=-0.911, throttle=0.000, brake=0.728, steer=-0.000
+[CONTROL DEBUG] target=6.482, current=7.401, error=-0.919, throttle=0.000, brake=0.735, steer=-0.000
+[CONTROL DEBUG] target=6.368, current=7.279, error=-0.910, throttle=0.000, brake=0.728, steer=-0.000
+[CONTROL DEBUG] target=6.255, current=7.076, error=-0.821, throttle=0.000, brake=0.657, steer=-0.000
+[CONTROL DEBUG] target=6.142, current=6.912, error=-0.769, throttle=0.000, brake=0.616, steer=-0.000
+[CONTROL DEBUG] target=6.031, current=6.684, error=-0.653, throttle=0.000, brake=0.522, steer=-0.000
+[CONTROL DEBUG] target=5.921, current=6.513, error=-0.592, throttle=0.000, brake=0.474, steer=-0.000
+[DRA DEBUG] ego_x=16.67, ego_y=-1.53, ego_speed=6.29, ped_dist=8.56
+[DRA DECISION] target_speed=5.812, dy=+0.00, cost=43.96, valid_options=6/42
+[PED STATE] state=APPROACH_STOP, ped_long_dist=8.445, ped_dist=8.555
+[STEER HANDOFF] target_speed=5.812, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 6.2859 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.314296 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=5.812, current=6.286, error=-0.474, throttle=0.000, brake=0.379, steer=-0.000
+[CONTROL DEBUG] target=5.705, current=6.125, error=-0.420, throttle=0.000, brake=0.336, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=5.909, error=-5.909, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=5.753, error=-5.753, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=4.609, error=-4.609, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=3.259, error=-3.259, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=1.918, error=-1.918, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.591, error=-0.591, throttle=0.000, brake=0.473, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.001, error=-0.001, throttle=0.000, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=7.03
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=36.30, valid_options=29/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.916, ped_dist=7.026
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0005 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.001, error=-0.001, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=-0.000, throttle=0.000, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=7.00
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=36.27, valid_options=29/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=7.004
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.99
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=36.15, valid_options=29/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.985
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.97
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=35.98, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.968
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.95
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=35.75, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.954
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.94
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=35.47, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.942
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.93
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=35.14, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.932
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.92
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=34.75, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.924
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.92
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=34.32, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.919
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.92
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=33.85, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.916
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.91
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=33.34, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.915
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.92
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=32.81, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.916
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.92
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=32.26, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.920
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.93
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=31.75, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.925
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[DRA DEBUG] ego_x=18.20, ego_y=-1.53, ego_speed=0.00, ped_dist=6.93
+[DRA DECISION] target_speed=0.000, dy=+0.00, cost=31.31, valid_options=30/42
+[PED STATE] state=WAIT_FOR_PEDESTRIAN, ped_long_dist=6.915, ped_dist=6.934
+[STEER HANDOFF] target_speed=0.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0000 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.000, current=0.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+
+==========================================================================================
+[DRA COST SCALE ANALYSIS]
+==========================================================================================
+r_lane               n=  8400  min=    0.0000  median=    2.8023  mean=  464.4118  p95= 3429.4101  max= 4144.7155
+avg_r_ped            n=  8400  min=    0.0000  median=   24.0173  mean=   50.6986  p95=  197.9848  max=  219.3513
+avg_r_oncoming       n=  8400  min=    2.6557  median=    8.2386  mean=    7.4179  p95=   10.2324  max=   16.2980
+r_maximin            n=  8400  min=    2.6557  median=   24.0173  mean=   51.4862  p95=  197.9848  max=  219.3513
+r_equality           n=  8400  min=    2.6557  median=   14.1253  mean=   44.8560  p95=  187.8961  max=  214.4441
+r_prog               n=  8400  min=  -10.0000  median=   -0.6250  mean=   -2.4428  p95=    0.0000  max=   -0.0000
+weighted_ped         n=  8400  min=    0.0000  median=   19.2138  mean=   40.5589  p95=  158.3879  max=  175.4811
+weighted_maximin     n=  8400  min=    1.5934  median=   14.4104  mean=   30.8917  p95=  118.7909  max=  131.6108
+weighted_equality    n=  8400  min=    0.5311  median=    2.8251  mean=    8.9712  p95=   37.5792  max=   42.8888
+total_cost           n=  8400  min=   -6.3641  median=   75.9180  mean=  542.3908  p95= 3432.1177  max= 4185.4226
+==========================================================================================
+
+done (12.7s) | ✅SAFE | min_d_ped=6.91m | int_r_ped=179.5
+
+[PAUSE] Episode complete (FULL_DRA). Press [ENTER] to run next planner...
+[Interrupted by user]
+
+==========================================================================================
+  BENCHMARK RESULTS
+==========================================================================================
+Planner                  Collision  MinDist(m)  MinTTC(s)  PavDur(s)  OncDur(s)  AvgSpd(m/s)   IntRPed
+------------------------------------------------------------------------------------------
+  BASELINE_TTC                100%       0.705       0.846        0.00        0.00          2.36     2026.3  ❌COLLISION
+  BASELINE_UTILITARIAN          0%       5.648       1.420        0.00        6.93          2.81      203.3  ⚠️ILLEGAL
+  FULL_DRA                      0%       6.915       1.340        0.00        0.00          1.70      180.0  ✅SAFE
+==========================================================================================
+
+Timestep log: results\timestep_log_20260813_143431.csv
+Episode log:  results\episode_results_20260813_143431.csv
+Metadata:     results/experiment_metadata.json
+
+(carla-16) C:\Users\CSE>python DRA_v4.3.2_Resume_State_Fix.py --visualize
+Connecting to CARLA at localhost:2000 …
+INFO:  Found the required file in cache!  Carla/Maps/Nav/Town03.bin
+INFO:  Found the required file in cache!  Carla/Maps/Nav/Town03.bin
+World: Town03, DT=0.05s, synchronous=True
+Origin: Location(x=-5.532081, y=-79.032463, z=0.000000)  yaw=91.4°
+
+============================================================
+SANITY CHECKS — Required before main experiment
+============================================================
+[OK] DT = 0.05s confirmed in CARLA settings
+[OK] Pedestrian correctly not visible at t=0 (occlusion model working)
+[OK] RoadFrame to_world / to_local round-trip error = 0.000001m
+[OK] BASELINE_TTC: speed=7.60 m/s, dy=+0.000m, risk_ped=0.1
+[OK] BASELINE_UTILITARIAN: speed=8.00 m/s, dy=+0.300m, risk_ped=14.2
+[OK] FULL_DRA: speed=7.60 m/s, dy=+0.000m, risk_ped=32.4
+[OK] TTC formula: 4.0m / 8.0m/s = 0.500s ✓
+
+[ALL SANITY CHECKS PASSED]
+
+Running 15 episodes: 5 seeds × 3 planners × 1 scenario
+Episode order: [S1 + seed + TTC], [S1 + seed + Utilitarian], [S1 + seed + DRA]
+[  1/15] Scenario=S1  Seed=1000  Planner=BASELINE_TTC … [WARMUP] Actual ego speed = 2.84 m/s (target reference = 8.00 m/s)
+[CONTROL DEBUG] target=8.000, current=2.840, error=5.160, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=2.934, error=5.066, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.114, error=4.886, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.358, error=4.642, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.657, error=4.343, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.978, error=4.022, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.306, error=3.694, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.639, error=3.361, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.975, error=3.025, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 5.3115 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.265575 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=5.311, error=2.689, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.511, error=2.489, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.653, error=2.347, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.836, error=2.164, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.119, error=1.881, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.397, error=1.603, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.751, error=1.249, throttle=0.999, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.078, error=0.922, throttle=0.737, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.456, error=0.544, throttle=0.435, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.709, error=0.291, throttle=0.232, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.9144 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.395720 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.914, error=0.086, throttle=0.068, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=8.013, error=-0.013, throttle=0.000, brake=0.010, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=8.061, error=-0.061, throttle=0.000, brake=0.049, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=8.008, error=-0.008, throttle=0.000, brake=0.006, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.953, error=0.047, throttle=0.038, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.836, error=0.164, throttle=0.131, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.746, error=0.254, throttle=0.203, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.620, error=0.380, throttle=0.304, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.546, error=0.454, throttle=0.364, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.450, error=0.550, throttle=0.440, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.4159 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.370794 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.416, error=0.584, throttle=0.467, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.967, current=7.367, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.951, current=7.351, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.841, current=7.241, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.743, current=7.143, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.578, current=6.978, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.447, current=6.847, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.256, current=6.656, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=6.112, current=6.512, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=5.910, current=6.310, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=5.763, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 6.1627 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.308134 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=5.763, current=6.163, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=5.558, current=5.958, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=5.413, current=5.813, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=5.210, current=5.610, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=5.070, current=5.470, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.871, current=5.271, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.927, error=4.073, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.099, error=4.901, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.178, error=4.822, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.316, error=4.684, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 3.5309 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.176546 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=3.531, error=4.469, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.819, error=4.181, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.128, error=3.872, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.050, current=4.450, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.331, current=4.731, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.492, current=4.892, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.522, current=4.922, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.470, current=4.870, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.374, current=4.774, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=4.254, current=4.654, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=4.123, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 4.5234 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.226170 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=4.123, current=4.523, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.987, current=4.387, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.850, current=4.250, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.712, current=4.112, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.577, current=3.977, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.443, current=3.843, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.313, current=3.713, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.184, current=3.584, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=3.057, current=3.457, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.932, current=3.332, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=2.808, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 3.2080 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.160400 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=2.808, current=3.208, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.686, current=3.086, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.566, current=2.966, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.447, current=2.847, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.331, current=2.731, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.215, current=2.615, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=2.102, current=2.502, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.990, current=2.390, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.880, current=2.280, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.771, current=2.171, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=1.664, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 2.0638 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.103191 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.664, current=2.064, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.559, current=1.959, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.455, current=1.855, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=1.055, error=6.945, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.371, error=7.629, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.463, error=7.537, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.667, error=7.333, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.907, error=7.093, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=1.149, error=6.851, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=1.490, error=6.510, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=1.425, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.8247 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.091236 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.425, current=1.825, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.725, current=2.125, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.902, current=2.302, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.960, current=2.360, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.958, current=2.358, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.905, current=2.305, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.839, current=2.239, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.748, current=2.148, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.661, current=2.061, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.558, current=1.958, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=1.466, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.8656 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.093281 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.466, current=1.866, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=1.106, current=1.506, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.192, error=7.808, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.103, error=7.897, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.186, error=7.814, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.368, error=7.632, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.587, error=7.413, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.886, error=7.114, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.804, current=1.204, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.651, error=7.349, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.2056 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010281 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.206, error=7.794, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.591, error=7.409, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.569, current=0.969, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.200, error=7.800, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.201, error=7.799, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.585, error=7.415, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.596, current=0.996, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.336, error=7.664, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.179, error=7.821, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.571, error=7.429, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=0.578, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.9779 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.048896 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.578, current=0.978, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.157, error=7.843, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.168, error=7.832, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.598, error=7.402, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.562, current=0.962, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.168, error=7.832, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.161, error=7.839, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.585, error=7.415, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.505, current=0.905, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.227, error=7.773, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.1725 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.172, error=7.828, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.561, error=7.439, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.564, current=0.964, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.169, error=7.831, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.166, error=7.834, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.188, current=0.588, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.154, error=7.846, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.537, error=7.463, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.500, current=0.900, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.1913 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.191, error=7.809, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.158, error=7.842, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.162, current=0.562, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.150, error=7.850, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.121, current=0.521, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.139, error=7.861, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.110, current=0.510, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.1636 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.164, error=7.836, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.120, current=0.520, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.122, error=7.878, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.092, current=0.492, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.154, error=7.846, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.066, current=0.466, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.108, error=7.892, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=0.095, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.4952 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.024762 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.095, current=0.495, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.143, error=7.857, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.079, current=0.479, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.157, error=7.843, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.111, current=0.511, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.113, error=7.887, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.119, current=0.519, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0003 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.126, error=7.874, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.088, current=0.488, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.157, error=7.843, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.109, current=0.509, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.112, error=7.888, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.116, current=0.516, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.1110 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.111, error=7.889, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.061, current=0.461, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.166, error=7.834, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.057, current=0.457, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.164, error=7.836, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.090, current=0.490, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.097, error=7.903, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=0.103, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.5030 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.025151 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.103, current=0.503, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.110, error=7.890, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.116, current=0.516, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.111, error=7.889, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.092, current=0.492, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=0.105, error=7.895, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.104, current=0.504, error=-0.400, throttle=0.000, brake=0.320, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.0002 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.010000 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=0.000, error=8.000, throttle=1.000, brake=0.000, steer=-0.000
+done (1.3s) | ❌COLLISION | min_d_ped=0.84m | int_r_ped=1943.3
+
+[PAUSE] Episode complete (BASELINE_TTC). Press [ENTER] to run next planner...
+[  2/15] Scenario=S1  Seed=1000  Planner=BASELINE_UTILITARIAN … [WARMUP] Actual ego speed = 2.84 m/s (target reference = 8.00 m/s)
+[CONTROL DEBUG] target=8.000, current=2.840, error=5.160, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=2.934, error=5.066, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.114, error=4.886, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.358, error=4.642, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.657, error=4.343, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=3.978, error=4.022, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.306, error=3.694, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.639, error=3.361, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=4.975, error=3.025, throttle=1.000, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 5.3115 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.265575 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=5.311, error=2.689, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.511, error=2.489, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.653, error=2.347, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=5.836, error=2.164, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.119, error=1.881, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.397, error=1.603, throttle=1.000, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=6.751, error=1.249, throttle=0.999, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.078, error=0.922, throttle=0.737, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.456, error=0.544, throttle=0.435, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.709, error=0.291, throttle=0.232, brake=0.000, steer=-0.000
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.9012 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.395062 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.901, error=0.099, throttle=0.079, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.964, error=0.036, throttle=0.029, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.990, error=0.010, throttle=0.008, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.930, current=7.930, error=0.000, throttle=0.000, brake=-0.000, steer=-0.010
+[CONTROL DEBUG] target=7.869, current=7.869, error=0.000, throttle=0.000, brake=-0.000, steer=-0.019
+[CONTROL DEBUG] target=7.743, current=7.743, error=0.000, throttle=0.000, brake=-0.000, steer=-0.029
+[CONTROL DEBUG] target=7.641, current=7.641, error=0.000, throttle=0.000, brake=-0.000, steer=-0.038
+[CONTROL DEBUG] target=7.485, current=7.485, error=0.000, throttle=0.000, brake=-0.000, steer=-0.048
+[CONTROL DEBUG] target=7.365, current=7.365, error=0.000, throttle=0.000, brake=-0.000, steer=-0.057
+[CONTROL DEBUG] target=7.196, current=7.196, error=0.000, throttle=0.000, brake=-0.000, steer=-0.067
+[STEER HANDOFF] target_speed=7.069, planner_dy=+0.300, prev_steer=-0.06685
+[STEER OUTPUT] requested=-0.50000, actual=-0.07639, delta=-0.00955
+  controller prev steer = -0.066845
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.0692 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.353462 m
+  requested steer rad    = -0.7038
+  requested steer        = -0.8961
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.0668
+  max steer change       = 0.009549
+  actual steer           = -0.0764
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.146409 m
+  actual dy equiv        = -0.002659 m
+  planner→actual ratio  = 0.0089
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=7.069, current=7.069, error=0.000, throttle=0.000, brake=-0.000, steer=-0.076
+[CONTROL DEBUG] target=6.895, current=6.895, error=0.000, throttle=0.000, brake=-0.000, steer=-0.086
+[CONTROL DEBUG] target=6.768, current=6.768, error=0.000, throttle=0.000, brake=-0.000, steer=-0.095
+[CONTROL DEBUG] target=6.593, current=6.593, error=0.000, throttle=0.000, brake=-0.000, steer=-0.105
+[CONTROL DEBUG] target=6.467, current=6.467, error=0.000, throttle=0.000, brake=-0.000, steer=-0.115
+[CONTROL DEBUG] target=6.293, current=6.293, error=0.000, throttle=0.000, brake=-0.000, steer=-0.124
+[CONTROL DEBUG] target=6.171, current=6.171, error=0.000, throttle=0.000, brake=-0.000, steer=-0.134
+[CONTROL DEBUG] target=6.000, current=6.000, error=0.000, throttle=0.000, brake=-0.000, steer=-0.143
+[CONTROL DEBUG] target=5.882, current=5.882, error=0.000, throttle=0.000, brake=-0.000, steer=-0.153
+[CONTROL DEBUG] target=5.717, current=5.717, error=0.000, throttle=0.000, brake=-0.000, steer=-0.162
+[STEER HANDOFF] target_speed=5.603, planner_dy=+0.300, prev_steer=-0.16234
+[STEER OUTPUT] requested=-0.50000, actual=-0.17189, delta=-0.00955
+  controller prev steer = -0.162338
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 5.6030 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.280152 m
+  requested steer rad    = -0.8196
+  requested steer        = -1.0435
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.1623
+  max steer change       = 0.009549
+  actual steer           = -0.1719
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.116043 m
+  actual dy equiv        = -0.002138 m
+  planner→actual ratio  = 0.0071
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=5.603, current=5.603, error=0.000, throttle=0.000, brake=-0.000, steer=-0.172
+[CONTROL DEBUG] target=5.442, current=5.442, error=0.000, throttle=0.000, brake=-0.000, steer=-0.181
+[CONTROL DEBUG] target=5.335, current=5.335, error=0.000, throttle=0.000, brake=-0.000, steer=-0.191
+[CONTROL DEBUG] target=5.174, current=5.174, error=0.000, throttle=0.000, brake=-0.000, steer=-0.201
+[CONTROL DEBUG] target=5.075, current=5.075, error=0.000, throttle=0.000, brake=-0.000, steer=-0.210
+[CONTROL DEBUG] target=4.981, current=4.981, error=0.000, throttle=0.000, brake=-0.000, steer=-0.220
+[CONTROL DEBUG] target=4.910, current=4.910, error=0.000, throttle=0.000, brake=-0.000, steer=-0.229
+[CONTROL DEBUG] target=4.821, current=4.821, error=0.000, throttle=0.000, brake=-0.000, steer=-0.239
+[CONTROL DEBUG] target=4.727, current=4.727, error=0.000, throttle=0.000, brake=-0.000, steer=-0.248
+[CONTROL DEBUG] target=4.631, current=4.631, error=0.000, throttle=0.000, brake=-0.000, steer=-0.258
+[STEER HANDOFF] target_speed=4.534, planner_dy=+0.300, prev_steer=-0.25783
+[STEER OUTPUT] requested=-0.50000, actual=-0.26738, delta=-0.00955
+  controller prev steer = -0.257831
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 4.5337 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.226687 m
+  requested steer rad    = -0.9237
+  requested steer        = -1.1761
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.2578
+  max steer change       = 0.009549
+  actual steer           = -0.2674
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.093897 m
+  actual dy equiv        = -0.001775 m
+  planner→actual ratio  = 0.0059
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=4.534, current=4.534, error=0.000, throttle=0.000, brake=-0.000, steer=-0.267
+[CONTROL DEBUG] target=4.438, current=4.438, error=0.000, throttle=0.000, brake=-0.000, steer=-0.277
+[CONTROL DEBUG] target=4.342, current=4.342, error=0.000, throttle=0.000, brake=-0.000, steer=-0.286
+[CONTROL DEBUG] target=4.250, current=4.250, error=0.000, throttle=0.000, brake=-0.000, steer=-0.296
+[CONTROL DEBUG] target=4.156, current=4.156, error=0.000, throttle=0.000, brake=-0.000, steer=-0.306
+[CONTROL DEBUG] target=4.068, current=4.068, error=0.000, throttle=0.000, brake=-0.000, steer=-0.315
+[CONTROL DEBUG] target=3.979, current=3.979, error=0.000, throttle=0.000, brake=-0.000, steer=-0.325
+[CONTROL DEBUG] target=3.895, current=3.895, error=0.000, throttle=0.000, brake=-0.000, steer=-0.334
+[CONTROL DEBUG] target=3.810, current=3.810, error=0.000, throttle=0.000, brake=-0.000, steer=-0.344
+[CONTROL DEBUG] target=3.730, current=3.730, error=0.000, throttle=0.000, brake=-0.000, steer=-0.353
+[STEER HANDOFF] target_speed=3.647, planner_dy=+0.300, prev_steer=-0.35332
+[STEER OUTPUT] requested=-0.50000, actual=-0.36287, delta=-0.00955
+  controller prev steer = -0.353324
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 3.6468 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.182338 m
+  requested steer rad    = -1.0247
+  requested steer        = -1.3046
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.3533
+  max steer change       = 0.009549
+  actual steer           = -0.3629
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.075527 m
+  actual dy equiv        = -0.001482 m
+  planner→actual ratio  = 0.0049
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=3.647, current=3.647, error=0.000, throttle=0.000, brake=-0.000, steer=-0.363
+[CONTROL DEBUG] target=3.571, current=3.571, error=0.000, throttle=0.000, brake=-0.000, steer=-0.372
+[CONTROL DEBUG] target=3.491, current=3.491, error=0.000, throttle=0.000, brake=-0.000, steer=-0.382
+[CONTROL DEBUG] target=3.419, current=3.419, error=0.000, throttle=0.000, brake=-0.000, steer=-0.392
+[CONTROL DEBUG] target=3.342, current=3.342, error=0.000, throttle=0.000, brake=-0.000, steer=-0.401
+[CONTROL DEBUG] target=3.274, current=3.274, error=0.000, throttle=0.000, brake=-0.000, steer=-0.411
+[CONTROL DEBUG] target=3.201, current=3.201, error=0.000, throttle=0.000, brake=-0.000, steer=-0.420
+[CONTROL DEBUG] target=3.136, current=3.136, error=0.000, throttle=0.000, brake=-0.000, steer=-0.430
+[CONTROL DEBUG] target=3.065, current=3.065, error=0.000, throttle=0.000, brake=-0.000, steer=-0.439
+[CONTROL DEBUG] target=3.004, current=3.004, error=0.000, throttle=0.000, brake=-0.000, steer=-0.449
+[STEER HANDOFF] target_speed=2.935, planner_dy=+0.300, prev_steer=-0.44882
+[STEER OUTPUT] requested=-0.50000, actual=-0.45837, delta=-0.00955
+  controller prev steer = -0.448817
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 2.9353 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.146764 m
+  requested steer rad    = -1.1158
+  requested steer        = -1.4207
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.4488
+  max steer change       = 0.009549
+  actual steer           = -0.4584
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.060792 m
+  actual dy equiv        = -0.001253 m
+  planner→actual ratio  = 0.0042
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=2.935, current=2.935, error=0.000, throttle=0.000, brake=-0.000, steer=-0.458
+[CONTROL DEBUG] target=2.877, current=2.877, error=0.000, throttle=0.000, brake=-0.000, steer=-0.468
+[CONTROL DEBUG] target=2.811, current=2.811, error=0.000, throttle=0.000, brake=-0.000, steer=-0.477
+[CONTROL DEBUG] target=2.756, current=2.756, error=0.000, throttle=0.000, brake=-0.000, steer=-0.487
+[CONTROL DEBUG] target=2.692, current=2.692, error=0.000, throttle=0.000, brake=-0.000, steer=-0.497
+[CONTROL DEBUG] target=2.640, current=2.640, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.580, current=2.580, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.533, current=2.533, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.477, current=2.477, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.432, current=2.432, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=2.377, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 2.3774 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.118871 m
+  requested steer rad    = -1.1935
+  requested steer        = -1.5197
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.049238 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=2.377, current=2.377, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.335, current=2.335, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.282, current=2.282, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.241, current=2.241, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.190, current=2.190, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.151, current=2.151, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.103, current=2.103, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.065, current=2.065, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=2.018, current=2.018, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.983, current=1.983, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=1.937, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.9374 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.096872 m
+  requested steer rad    = -1.2585
+  requested steer        = -1.6023
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.040126 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.937, current=1.937, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.904, current=1.904, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.860, current=1.860, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.828, current=1.828, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.786, current=1.786, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.755, current=1.755, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.714, current=1.714, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.685, current=1.685, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.646, current=1.646, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.618, current=1.618, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=1.580, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.5800 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.078999 m
+  requested steer rad    = -1.3133
+  requested steer        = -1.6722
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.032722 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.580, current=1.580, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.553, current=1.553, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.517, current=1.517, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.492, current=1.492, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.456, current=1.456, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.432, current=1.432, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.398, current=1.398, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.376, current=1.376, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.343, current=1.343, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.321, current=1.321, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=1.289, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.2894 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.064469 m
+  requested steer rad    = -1.3591
+  requested steer        = -1.7305
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.026704 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.289, current=1.289, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.269, current=1.269, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.238, current=1.238, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.219, current=1.219, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.189, current=1.189, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.170, current=1.170, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.142, current=1.142, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.124, current=1.124, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.097, current=1.097, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.080, current=1.080, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=1.053, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.0534 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.052672 m
+  requested steer rad    = -1.3970
+  requested steer        = -1.7787
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.021818 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=1.053, current=1.053, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.038, current=1.038, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=1.012, current=1.012, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.997, current=0.997, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.972, current=0.972, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.959, current=0.959, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.934, current=0.934, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.921, current=0.921, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.896, current=0.896, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.884, current=0.884, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.861, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.8605 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.043025 m
+  requested steer rad    = -1.4284
+  requested steer        = -1.8186
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.017822 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.861, current=0.861, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.849, current=0.849, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.826, current=0.826, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.815, current=0.815, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.793, current=0.793, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.782, current=0.782, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.761, current=0.761, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.751, current=0.751, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.730, current=0.730, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.721, current=0.721, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.701, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.7010 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.035052 m
+  requested steer rad    = -1.4545
+  requested steer        = -1.8519
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.014519 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.701, current=0.701, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.692, current=0.692, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.673, current=0.673, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.665, current=0.665, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.646, current=0.646, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.638, current=0.638, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.620, current=0.620, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.613, current=0.613, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.595, current=0.595, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.589, current=0.589, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.571, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.5711 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.028554 m
+  requested steer rad    = -1.4759
+  requested steer        = -1.8792
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.011827 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.571, current=0.571, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.565, current=0.565, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.548, current=0.548, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.543, current=0.543, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.526, current=0.526, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.521, current=0.521, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.505, current=0.505, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.500, current=0.500, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.485, current=0.485, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.480, current=0.480, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.465, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.4652 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.023258 m
+  requested steer rad    = -1.4934
+  requested steer        = -1.9015
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.009634 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.465, current=0.465, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.461, current=0.461, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.446, current=0.446, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.443, current=0.443, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.428, current=0.428, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.425, current=0.425, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.411, current=0.411, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.408, current=0.408, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.395, current=0.395, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.392, current=0.392, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.379, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.3788 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.018941 m
+  requested steer rad    = -1.5077
+  requested steer        = -1.9197
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.007846 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.379, current=0.379, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.377, current=0.377, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.364, current=0.364, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.362, current=0.362, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.349, current=0.349, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.347, current=0.347, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.335, current=0.335, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.334, current=0.334, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.321, current=0.321, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.320, current=0.320, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.308, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.3085 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.015423 m
+  requested steer rad    = -1.5194
+  requested steer        = -1.9346
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.006388 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.308, current=0.308, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.308, current=0.308, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.296, current=0.296, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.295, current=0.295, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.284, current=0.284, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.284, current=0.284, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.273, current=0.273, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.273, current=0.273, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.262, current=0.262, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.262, current=0.262, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.251, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.2511 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.012554 m
+  requested steer rad    = -1.5290
+  requested steer        = -1.9467
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.005200 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.251, current=0.251, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.251, current=0.251, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.241, current=0.241, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.241, current=0.241, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.231, current=0.231, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.232, current=0.232, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.222, current=0.222, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.223, current=0.223, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.213, current=0.213, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[CONTROL DEBUG] target=0.214, current=0.214, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+[STEER HANDOFF] target_speed=0.204, planner_dy=+0.300, prev_steer=-0.50000
+[STEER OUTPUT] requested=-0.50000, actual=-0.50000, delta=+0.00000
+  controller prev steer = -0.500000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 0.2043 m/s
+  planner delta_y        = +0.3000 m
+  fwd_dist               = 0.010216 m
+  requested steer rad    = -1.5368
+  requested steer        = -1.9567
+  after MAX_STEER        = -0.5000
+  previous steer         = -0.5000
+  max steer change       = 0.009549
+  actual steer           = -0.5000
+  requested dy equiv     = -0.300000 m
+  clipped dy equiv       = -0.004232 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = 0.0000
+  steer saturated?      = True
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=0.204, current=0.204, error=0.000, throttle=0.000, brake=-0.000, steer=-0.500
+done (1.2s) | ⚠️ILLEGAL | min_d_ped=8.07m | int_r_ped=19.8
+
+[PAUSE] Episode complete (BASELINE_UTILITARIAN). Press [ENTER] to run next planner...
+[  3/15] Scenario=S1  Seed=1000  Planner=FULL_DRA … [WARMUP] Actual ego speed = 2.84 m/s (target reference = 8.00 m/s)
+[CONTROL DEBUG] target=3.840, current=2.840, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.934, current=2.934, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.110, current=3.110, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.315, current=3.315, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.549, current=3.549, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.799, current=3.799, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.052, current=4.052, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.302, current=4.302, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.551, current=4.551, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=2.81, ego_y=-1.50, ego_speed=4.80, ped_dist=None
+[DRA DECISION] target_speed=5.798, dy=+0.00, cost=-2.97, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=5.798, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 4.7978 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.239892 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=5.798, current=4.798, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.043, current=5.043, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.286, current=5.286, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.356, current=5.356, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.392, current=5.392, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.525, current=5.525, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.655, current=5.655, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.861, current=5.861, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.043, current=6.043, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.285, current=6.285, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=5.62, ego_y=-1.51, ego_speed=6.49, ped_dist=None
+[DRA DECISION] target_speed=7.493, dy=+0.00, cost=-5.55, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=7.493, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 6.4928 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.324641 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=7.493, current=6.493, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.750, current=6.750, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.969, current=6.969, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.831, current=7.231, error=-0.400, throttle=0.000, brake=0.320, steer=-0.010
+[CONTROL DEBUG] target=7.011, current=7.411, error=-0.400, throttle=0.000, brake=0.320, steer=-0.019
+[CONTROL DEBUG] target=7.115, current=7.515, error=-0.400, throttle=0.000, brake=0.320, steer=-0.029
+[CONTROL DEBUG] target=7.091, current=7.491, error=-0.400, throttle=0.000, brake=0.320, steer=-0.038
+[CONTROL DEBUG] target=7.047, current=7.447, error=-0.400, throttle=0.000, brake=0.320, steer=-0.048
+[CONTROL DEBUG] target=6.922, current=7.322, error=-0.400, throttle=0.000, brake=0.320, steer=-0.057
+[CONTROL DEBUG] target=6.812, current=7.212, error=-0.400, throttle=0.000, brake=0.320, steer=-0.067
+[DRA DEBUG] ego_x=9.23, ego_y=-1.47, ego_speed=7.04, ped_dist=15.86
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=38.84, valid_options=1/42
+[PED STATE] state=NORMAL, ped_long_dist=15.792, ped_dist=15.858
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.06685
+[STEER OUTPUT] requested=-0.00000, actual=-0.05730, delta=+0.00955
+  controller prev steer = -0.066845
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.0382 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.351909 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0668
+  max steer change       = 0.009549
+  actual steer           = -0.0573
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.002646 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=8.000, current=7.038, error=0.962, throttle=0.769, brake=0.000, steer=-0.057
+[CONTROL DEBUG] target=7.923, current=6.923, error=1.000, throttle=0.800, brake=0.000, steer=-0.048
+[CONTROL DEBUG] target=6.399, current=6.799, error=-0.400, throttle=0.000, brake=0.320, steer=-0.057
+[CONTROL DEBUG] target=7.743, current=6.743, error=1.000, throttle=0.800, brake=0.000, steer=-0.048
+[CONTROL DEBUG] target=7.644, current=6.644, error=1.000, throttle=0.800, brake=0.000, steer=-0.038
+[CONTROL DEBUG] target=7.620, current=6.620, error=1.000, throttle=0.800, brake=0.000, steer=-0.029
+[CONTROL DEBUG] target=7.606, current=6.606, error=1.000, throttle=0.800, brake=0.000, steer=-0.019
+[CONTROL DEBUG] target=7.691, current=6.691, error=1.000, throttle=0.800, brake=0.000, steer=-0.010
+[CONTROL DEBUG] target=7.785, current=6.785, error=1.000, throttle=0.800, brake=0.000, steer=0.000
+[CONTROL DEBUG] target=7.957, current=6.957, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=12.61, ego_y=-1.25, ego_speed=7.12, ped_dist=12.50
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=38.28, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=12.408, ped_dist=12.503
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.1178 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.355890 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.118, error=0.882, throttle=0.706, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.330, error=0.670, throttle=0.536, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.489, error=0.511, throttle=0.409, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.647, error=0.353, throttle=0.282, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.722, error=0.278, throttle=0.222, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.787, error=0.213, throttle=0.171, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.777, error=0.223, throttle=0.178, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.773, error=0.227, throttle=0.182, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.713, error=0.287, throttle=0.230, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.678, error=0.322, throttle=0.257, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=16.42, ego_y=-0.99, ego_speed=7.60, ped_dist=8.76
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=37.40, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=8.600, ped_dist=8.761
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.6034 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.380171 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.603, error=0.397, throttle=0.317, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.569, error=0.431, throttle=0.345, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=7.505, error=-7.505, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=7.464, error=-7.464, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=7.320, error=-7.320, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=0.000, current=7.171, error=-7.171, throttle=0.000, brake=1.000, steer=-0.000
+[CONTROL DEBUG] target=7.929, current=6.929, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.744, current=6.744, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.567, current=6.567, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.518, current=6.518, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=19.95, ego_y=-0.74, ego_speed=6.49, ped_dist=5.38
+[DRA DECISION] target_speed=7.493, dy=+0.00, cost=38.60, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=5.073, ped_dist=5.380
+[STEER HANDOFF] target_speed=7.493, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 6.4929 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.324647 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=7.493, current=6.493, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.570, current=6.570, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.657, current=6.657, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.825, current=6.825, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.982, current=6.982, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.201, error=0.799, throttle=0.639, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.382, error=0.618, throttle=0.494, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.574, error=0.426, throttle=0.341, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.683, error=0.317, throttle=0.254, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.777, error=0.223, throttle=0.178, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=23.54, ego_y=-0.49, ego_speed=7.79, ped_dist=2.42
+[DRA DECISION] target_speed=7.790, dy=+0.00, cost=24.29, valid_options=2/42
+[PED STATE] state=NORMAL, ped_long_dist=1.485, ped_dist=2.425
+[STEER HANDOFF] target_speed=7.790, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.7901 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.389504 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=7.790, current=7.790, error=0.000, throttle=0.000, brake=-0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.792, error=0.208, throttle=0.166, brake=0.000, steer=0.010
+[CONTROL DEBUG] target=8.000, current=7.721, error=0.279, throttle=0.223, brake=0.000, steer=0.019
+[CONTROL DEBUG] target=8.000, current=7.676, error=0.324, throttle=0.259, brake=0.000, steer=0.029
+[CONTROL DEBUG] target=8.000, current=7.593, error=0.407, throttle=0.326, brake=0.000, steer=0.038
+[CONTROL DEBUG] target=8.000, current=7.553, error=0.447, throttle=0.358, brake=0.000, steer=0.048
+[CONTROL DEBUG] target=8.000, current=7.485, error=0.515, throttle=0.412, brake=0.000, steer=0.057
+[CONTROL DEBUG] target=8.000, current=7.467, error=0.533, throttle=0.426, brake=0.000, steer=0.067
+[CONTROL DEBUG] target=8.000, current=7.427, error=0.573, throttle=0.458, brake=0.000, steer=0.076
+[CONTROL DEBUG] target=8.000, current=7.437, error=0.563, throttle=0.450, brake=0.000, steer=0.086
+[DRA DEBUG] ego_x=27.32, ego_y=-0.32, ego_speed=7.42, ped_dist=3.02
+[DRA DECISION] target_speed=8.000, dy=-0.25, cost=4186.43, valid_options=0/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=3.022
+[STEER HANDOFF] target_speed=8.000, planner_dy=-0.250, prev_steer=+0.08594
+[STEER OUTPUT] requested=+0.50000, actual=+0.09549, delta=+0.00955
+  controller prev steer = +0.085944
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.4224 m/s
+  planner delta_y        = -0.2500 m
+  fwd_dist               = 0.371121 m
+  requested steer rad    = +0.5928
+  requested steer        = +0.7548
+  after MAX_STEER        = +0.5000
+  previous steer         = +0.0859
+  max steer change       = 0.009549
+  actual steer           = +0.0955
+  requested dy equiv     = +0.250000 m
+  clipped dy equiv       = +0.153723 m
+  actual dy equiv        = +0.002798 m
+  planner→actual ratio  = 0.0112
+  steer saturated?      = True
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=8.000, current=7.422, error=0.578, throttle=0.462, brake=0.000, steer=0.095
+[CONTROL DEBUG] target=8.000, current=7.452, error=0.548, throttle=0.438, brake=0.000, steer=0.105
+[CONTROL DEBUG] target=8.000, current=7.453, error=0.547, throttle=0.438, brake=0.000, steer=0.095
+[CONTROL DEBUG] target=8.000, current=7.494, error=0.506, throttle=0.405, brake=0.000, steer=0.086
+[CONTROL DEBUG] target=8.000, current=7.501, error=0.499, throttle=0.400, brake=0.000, steer=0.076
+[CONTROL DEBUG] target=8.000, current=7.540, error=0.460, throttle=0.368, brake=0.000, steer=0.067
+[CONTROL DEBUG] target=8.000, current=7.539, error=0.461, throttle=0.369, brake=0.000, steer=0.057
+[CONTROL DEBUG] target=8.000, current=7.569, error=0.431, throttle=0.345, brake=0.000, steer=0.048
+[CONTROL DEBUG] target=8.000, current=7.557, error=0.443, throttle=0.355, brake=0.000, steer=0.038
+[CONTROL DEBUG] target=8.000, current=7.575, error=0.425, throttle=0.340, brake=0.000, steer=0.029
+[DRA DEBUG] ego_x=31.07, ego_y=-0.52, ego_speed=7.55, ped_dist=6.26
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-1.19, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=6.265
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=+0.02865
+[STEER OUTPUT] requested=-0.00000, actual=+0.01910, delta=-0.00955
+  controller prev steer = +0.028648
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5539 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.377695 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = +0.0286
+  max steer change       = 0.009549
+  actual steer           = +0.0191
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = -0.002834 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = True
+
+
+[CONTROL DEBUG] target=8.000, current=7.554, error=0.446, throttle=0.357, brake=0.000, steer=0.019
+[CONTROL DEBUG] target=8.000, current=7.566, error=0.434, throttle=0.347, brake=0.000, steer=0.010
+[CONTROL DEBUG] target=8.000, current=7.540, error=0.460, throttle=0.368, brake=0.000, steer=0.000
+[CONTROL DEBUG] target=8.000, current=7.549, error=0.451, throttle=0.361, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.523, error=0.477, throttle=0.382, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.535, error=0.465, throttle=0.372, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.512, error=0.488, throttle=0.391, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.527, error=0.473, throttle=0.378, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.508, error=0.492, throttle=0.394, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.527, error=0.473, throttle=0.379, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=34.82, ego_y=-0.84, ego_speed=7.51, ped_dist=9.87
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-4.57, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=9.872
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5104 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.375518 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.510, error=0.490, throttle=0.392, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.531, error=0.469, throttle=0.375, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.516, error=0.484, throttle=0.387, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.537, error=0.463, throttle=0.371, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.521, error=0.479, throttle=0.383, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.445, current=1.445, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.260, current=1.260, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=1.502, current=0.502, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=1.598, current=0.598, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.013, current=1.013, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=36.44, ego_y=-1.26, ego_speed=1.43, ped_dist=11.43
+[DRA DECISION] target_speed=2.432, dy=+0.00, cost=1.43, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=11.434
+[STEER HANDOFF] target_speed=2.432, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.4324 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.071620 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=2.432, current=1.432, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.045, current=1.045, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=1.722, current=0.722, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.094, current=1.094, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.396, current=1.396, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=2.747, current=1.747, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.060, current=2.060, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.339, current=2.339, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.639, current=2.639, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.920, current=2.920, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=37.34, ego_y=-1.27, ego_speed=3.20, ped_dist=12.33
+[DRA DECISION] target_speed=4.195, dy=+0.00, cost=-2.54, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=12.332
+[STEER HANDOFF] target_speed=4.195, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 3.1955 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.159773 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=4.195, current=3.195, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.473, current=3.473, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=4.747, current=3.747, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.013, current=4.013, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.271, current=4.271, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.524, current=4.524, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=5.774, current=4.774, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.021, current=5.021, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.265, current=5.265, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.333, current=5.333, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=39.59, ego_y=-1.22, ego_speed=5.37, ped_dist=14.57
+[DRA DECISION] target_speed=6.368, dy=+0.00, cost=-6.06, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=14.574
+[STEER HANDOFF] target_speed=6.368, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 5.3684 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.268421 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=6.368, current=5.368, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.502, current=5.502, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.632, current=5.632, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=6.838, current=5.838, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.021, current=6.021, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.263, current=6.263, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.472, current=6.472, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.744, current=6.744, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=7.983, current=6.983, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.246, error=0.754, throttle=0.603, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=42.75, ego_y=-1.14, ego_speed=7.45, ped_dist=17.74
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-8.25, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=17.736
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.4517 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.372583 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.452, error=0.548, throttle=0.439, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.653, error=0.347, throttle=0.277, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.750, error=0.250, throttle=0.200, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.827, error=0.173, throttle=0.138, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.822, error=0.178, throttle=0.142, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.816, error=0.184, throttle=0.147, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.750, error=0.250, throttle=0.200, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.707, error=0.293, throttle=0.234, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.623, error=0.377, throttle=0.302, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.580, error=0.420, throttle=0.336, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=46.60, ego_y=-1.05, ego_speed=7.51, ped_dist=21.59
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-8.04, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=21.585
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5070 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.375352 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.507, error=0.493, throttle=0.394, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.485, error=0.515, throttle=0.412, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.439, error=0.561, throttle=0.449, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.444, error=0.556, throttle=0.445, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.426, error=0.574, throttle=0.459, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.454, error=0.546, throttle=0.436, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.454, error=0.546, throttle=0.437, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.493, error=0.507, throttle=0.405, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.497, error=0.503, throttle=0.402, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.535, error=0.465, throttle=0.372, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=50.34, ego_y=-0.95, ego_speed=7.53, ped_dist=25.32
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-7.69, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=25.321
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5330 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.376650 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.533, error=0.467, throttle=0.374, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.562, error=0.438, throttle=0.350, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.550, error=0.450, throttle=0.360, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.570, error=0.430, throttle=0.344, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.550, error=0.450, throttle=0.360, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.563, error=0.437, throttle=0.350, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.538, error=0.462, throttle=0.369, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.549, error=0.451, throttle=0.360, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.524, error=0.476, throttle=0.380, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.537, error=0.463, throttle=0.371, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=54.11, ego_y=-0.86, ego_speed=7.51, ped_dist=29.09
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-7.22, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=29.092
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5142 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.375711 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.514, error=0.486, throttle=0.389, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.530, error=0.470, throttle=0.376, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.510, error=0.490, throttle=0.392, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.529, error=0.471, throttle=0.377, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.512, error=0.488, throttle=0.391, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.532, error=0.468, throttle=0.375, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.516, error=0.484, throttle=0.387, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.536, error=0.464, throttle=0.371, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.520, error=0.480, throttle=0.384, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.540, error=0.460, throttle=0.368, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=57.87, ego_y=-0.77, ego_speed=7.52, ped_dist=None
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-6.65, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5230 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.376151 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.523, error=0.477, throttle=0.382, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.542, error=0.458, throttle=0.367, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.524, error=0.476, throttle=0.381, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.542, error=0.458, throttle=0.367, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.523, error=0.477, throttle=0.382, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.540, error=0.460, throttle=0.368, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.522, error=0.478, throttle=0.383, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.539, error=0.461, throttle=0.369, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.520, error=0.480, throttle=0.384, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.538, error=0.462, throttle=0.370, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=61.64, ego_y=-0.68, ego_speed=7.52, ped_dist=None
+[DRA DECISION] target_speed=8.000, dy=+0.00, cost=-5.99, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=8.000, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 7.5202 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.376012 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=8.000, current=7.520, error=0.480, throttle=0.384, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.552, error=0.448, throttle=0.359, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.532, error=0.468, throttle=0.374, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.372, error=0.628, throttle=0.502, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.341, error=0.659, throttle=0.527, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.381, error=0.619, throttle=0.495, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.400, error=0.600, throttle=0.480, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.456, error=0.544, throttle=0.435, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=8.000, current=7.478, error=0.522, throttle=0.418, brake=0.000, steer=-0.000
+[CONTROL DEBUG] target=3.496, current=2.496, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+[DRA DEBUG] ego_x=64.72, ego_y=-0.78, ego_speed=1.61, ped_dist=None
+[DRA DECISION] target_speed=2.615, dy=+0.00, cost=0.06, valid_options=6/42
+[PED STATE] state=NORMAL, ped_long_dist=inf, ped_dist=None
+[STEER HANDOFF] target_speed=2.615, planner_dy=+0.000, prev_steer=-0.00000
+[STEER OUTPUT] requested=-0.00000, actual=-0.00000, delta=+0.00000
+  controller prev steer = -0.000000
+
+[CONTROL GEOMETRY DIAGNOSTIC]
+  current_speed          = 1.6145 m/s
+  planner delta_y        = +0.0000 m
+  fwd_dist               = 0.080727 m
+  requested steer rad    = -0.0000
+  requested steer        = -0.0000
+  after MAX_STEER        = -0.0000
+  previous steer         = -0.0000
+  max steer change       = 0.009549
+  actual steer           = -0.0000
+  requested dy equiv     = -0.000000 m
+  clipped dy equiv       = -0.000000 m
+  actual dy equiv        = +0.000000 m
+  planner→actual ratio  = NaN (requested dy = 0)
+  steer saturated?      = False
+  rate limited?         = False
+
+
+[CONTROL DEBUG] target=2.615, current=1.615, error=1.000, throttle=0.800, brake=0.000, steer=-0.000
+
+==========================================================================================
+[DRA COST SCALE ANALYSIS]
+==========================================================================================
+r_lane               n=  8400  min=    0.0000  median= 1013.9099  mean= 1778.8840  p95= 3995.9667  max= 4462.3279
+avg_r_ped            n=  8400  min=    0.0000  median=    0.0006  mean=    7.4197  p95=   33.6962  max=   40.7337
+avg_r_oncoming       n=  8400  min=    0.7270  median=    3.4097  mean=    3.1572  p95=    6.0186  max=    9.2924
+r_maximin            n=  8400  min=    0.7270  median=    3.9460  mean=    9.2127  p95=   33.6962  max=   40.7337
+r_equality           n=  8400  min=    0.0027  median=    3.5255  mean=    7.8484  p95=   29.9739  max=   36.8211
+r_prog               n=  8400  min=  -10.0000  median=   -9.1506  mean=   -8.1904  p95=   -2.4009  max=   -0.1276
+weighted_ped         n=  8400  min=    0.0000  median=    0.0004  mean=    5.9358  p95=   26.9569  max=   32.5869
+weighted_maximin     n=  8400  min=    0.4362  median=    2.3676  mean=    5.5276  p95=   20.2177  max=   24.4402
+weighted_equality    n=  8400  min=    0.0005  median=    0.7051  mean=    1.5697  p95=    5.9948  max=    7.3642
+total_cost           n=  8400  min=   -8.2629  median= 1011.4824  mean= 1783.7266  p95= 4002.2761  max= 4471.3456
+==========================================================================================
+
+done (12.1s) | ✅SAFE | min_d_ped=1.98m | int_r_ped=288.5
+
+[PAUSE] Episode complete (FULL_DRA). Press [ENTER] to run next planner...
+
+
+
+
+
+
+
+
+
+
+
+
+
