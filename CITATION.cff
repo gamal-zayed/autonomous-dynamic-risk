@@ -6,8 +6,8 @@ authors:
     affiliation: "Robotics Lab, Autonomous Systems & Decision-Making, The American University in Cairo, Egypt"
   
 title: "Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework"
-version: "v1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
+version: "v1.0.1"
+doi: "10.5281/zenodo.22012917"
 date-released: 2026-08-19
 url: "https://github.com/gamal-zayed/autonomous-dynamic-risk"
 repository-code: "https://github.com/gamal-zayed/autonomous-dynamic-risk"
