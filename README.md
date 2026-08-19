@@ -6,7 +6,10 @@ Modeling the Dynamic Risk Assessment for Autonomous Systems
 Official implementation and canonical research artifacts for **"Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework"**.
 
 ## Project Overview
-The Dynamic Risk Assessment (DRA) framework evaluates candidate maneuvers in a road-aligned local coordinate system using planar rotation, incorporating hard admissibility constraints alongside distribution-sensitive and ethical risk terms to resolve critical pedestrian-oncoming conflicts[cite: 8, 9].
+The Dynamic Risk Assessment (DRA) framework evaluates candidate maneuvers in a road-aligned local coordinate system using planar rotation, incorporating hard admissibility constraints alongside distribution-sensitive and ethical risk terms to resolve critical pedestrian-oncoming conflicts.
+
+## Funding & Acknowledgments
+This research is supported and funded under the Afretec Research Grant (African Engineering and Technology Network, involving Carnegie Mellon University Africa, The American University in Cairo, and partner institutions)[cite: 8, 9].
 
 ## Repository Structure
 ```text
