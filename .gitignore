@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment / IDEs
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+
+# CARLA / Execution temporary artifacts
+*.log
+*.tmp
+*.mp4
+!results/canonical/*.txt
+!results/canonical/*.csv
