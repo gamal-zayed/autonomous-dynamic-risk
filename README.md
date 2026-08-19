@@ -22,6 +22,15 @@ cd autonomous-dynamic-risk
 pip install -r requirements.txt
 ```
 
+## Running the Canonical Benchmark
+Start the CARLA server instance on Town03.
+
+Run the main evaluation script:
+Bash
+```text
+python src/DRA_v4.3.2_Resume_State_Fix.py --seed 1000 --scenario S1
+```
+
 ## Repository Structure
 ```text
 DRA-autonomous-vehicle/
