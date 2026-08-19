@@ -26,6 +26,7 @@ pip install -r requirements.txt
 Start the CARLA server instance on Town03.
 
 Run the main evaluation script:
+
 Bash
 ```text
 python src/DRA_v4.3.2_Resume_State_Fix.py --seed 1000 --scenario S1
