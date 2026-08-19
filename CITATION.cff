@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or technical research artifact, please cite it as below."
+authors:
+  - family-names: "Zayed"
+    given-names: "Gamal"
+    affiliation: "Robotics Lab, The American University in Cairo, Egypt"
+  - family-names: "El Mougy"
+    given-names: "Amr"
+    affiliation: "Robotics Lab, The American University in Cairo, Egypt"
+title: "Dynamic Risk Assessment (DRA) for Autonomous Vehicles: Constraint-Aware and Distribution-Sensitive Decision-Making Framework"
+version: "v1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: 2026-08-19
+url: "https://github.com/YOUR_GITHUB_USERNAME/DRA-autonomous-vehicle"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/DRA-autonomous-vehicle"
+keywords:
+  - "Autonomous Vehicles"
+  - "Dynamic Risk Assessment"
+  - "Conflict Resolution"
+  - "CARLA Simulator"
+  - "Ethical Trajectory Planning"
