@@ -14,6 +14,14 @@ This research is supported and funded under the Afretec Research Grant (African 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/gamal-zayed/autonomous-dynamic-risk/blob/main/LICENSE) file for details.
 
+## Setup
+Bash
+```text
+git clone [autonomous-dynamic-risk](https://github.com/gamal-zayed/autonomous-dynamic-risk.git)
+cd autonomous-dynamic-risk
+pip install -r requirements.txt
+```
+
 ## Repository Structure
 ```text
 DRA-autonomous-vehicle/
