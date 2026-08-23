@@ -1,4 +1,4 @@
-# autonomous-dynamic-risk
+# autonomous-dynamic-risk 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22012917-blue.svg)](https://doi.org/10.5281/zenodo.22012917) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Modeling Dynamic Risk Assessment for Autonomous-Systems Conflict Resolution: Constraint-Aware and Distribution-Sensitive Decision-Making Framework 
